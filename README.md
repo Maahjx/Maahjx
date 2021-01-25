@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**Maahjx/Maahjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img src="./github/sonic.gif" width="220px" align="left"> 
+    <br></br>
+    
+  # Oi, Eu sou Maria Eduarda! :D
+  
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Maahjx)](https://github.com/Maahjx)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maahjx/)](https://www.linkedin.com/in/maahjx/) 
+  
+  <br>
+  
+  ### Sobre Mim
+   
+  
+  - [certificados obtidos](https://drive.google.com/drive/folders/15Kvz6iILwgV4mcoZws0UEzjk_TUuilGA?usp=sharing) 
+  
+  - 📫 Como me encontrar -> marih44985@gmail.com
+  
+     
+    <p align="center"><a href="./README.md">Em inglês ➤</a></p>
+    
+ <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maahjx&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
+ </p>
+     
+  
+  </p>
