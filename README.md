@@ -1,7 +1,7 @@
 <img src="./github/stitch.gif" width="220px" align="left"> 
     <br></br>
     
-  # Hi, I'm Marih! :D
+  # Hi, I'm Marih! 🌈
   
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Maahjx)](https://github.com/Maahjx)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maahjx/)](https://www.linkedin.com/in/maahjx/) 
