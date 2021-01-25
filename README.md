@@ -39,5 +39,5 @@ I am a developer in training, currently studying self-taught.
   </p>
   
   <p>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maahjx&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maahjx&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
     </p>
