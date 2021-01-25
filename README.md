@@ -7,16 +7,16 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maahjx/)](https://www.linkedin.com/in/maahjx/) 
   <br>
   
+  
+    ### 👩‍💻 About me
   <p>
-  ### 👩‍💻 About me
 
 I am a developer in training, currently studying self-taught.
 </p>
 
-
-<p>
   ### 🏆 my skills
 
+<p>
 <img align="center" src="./icons/html_dark.png" alt="HTML5" height="75" width="75" />
 <img align="center" src="./icons/css_dark.png" alt="CSS" height="75" width="75" />
 <img align="center" src="./icons/javascript_dark.png" alt="JavaScript" height="75" width="75" />
