@@ -1,4 +1,3 @@
-<>
     <img src="./github/stitch.gif" width="220px" align="left"> 
     <br></br>
     
@@ -6,13 +5,16 @@
   
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Maahjx)](https://github.com/Maahjx)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maahjx/)](https://www.linkedin.com/in/maahjx/) 
-  
   <br>
   
+  <p>
   ### 👩‍💻 About me
 
 I am a developer in training, currently studying self-taught.
+</p>
 
+
+<p>
   ### 🏆 my skills
 
 <img align="center" src="./icons/html_dark.png" alt="HTML5" height="75" width="75" />
@@ -25,7 +27,7 @@ I am a developer in training, currently studying self-taught.
 <img align="center" src="./icons/bootstrap_dark.png" alt="BOTSTRAP" height="75" width="75" />
 <img align="center" src="./icons/git_dark.png" alt="GIT" height="75" width="75" />
 <img align="center" src="./icons/figma_dark.png" alt="FIGMA" height="75" width="75" />
-
+</p>
   
   - 📚 [certificates](https://drive.google.com/drive/folders/15Kvz6iILwgV4mcoZws0UEzjk_TUuilGA?usp=sharing) 
   
@@ -34,6 +36,8 @@ I am a developer in training, currently studying self-taught.
     
   <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maahjx&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maahjx&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
   </p>
+  
+  <p>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maahjx&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
+    </p>
