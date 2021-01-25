@@ -38,6 +38,6 @@ I am a developer in training, currently studying self-taught.
  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maahjx&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
   </p>
   
-  <p>
+  <p align="center">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maahjx&layout=compact&theme=buefy&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"/>
     </p>
