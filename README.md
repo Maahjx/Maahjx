@@ -1,5 +1,5 @@
 <img src="./github/stitch.gif" width="220px" align="left"> 
-    <br></br>
+    <br></br><br>
     
   # Hi, I'm Marih! 🌈
   
