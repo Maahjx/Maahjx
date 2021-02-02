@@ -31,7 +31,7 @@ I am a developer in training, currently studying self-taught.
   
   - 📚 [certificates](https://drive.google.com/drive/folders/15Kvz6iILwgV4mcoZws0UEzjk_TUuilGA?usp=sharing) 
   
-  - 📫 where to find me -> marih44985@gmail.com
+  - 📫 where to find me -> maaahjx@gmail.com
   
     
   <p align="center">
