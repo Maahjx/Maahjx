@@ -10,8 +10,7 @@
   
   ### 👩‍💻 About me
   <p>
-
-I am a developer in training, currently studying self-taught.
+Hi, my name is Maria Eduarda, I'm 17 years old and I'm currently working as a front-end developer at Nuvcare. I have experience with Html, CSS, JavaScript, Vue.js, React and git, as well as experience in the Figma prototyping tool. I currently do volunteer work on an OpenSource project called DevChallenge.
 </p>
 
   ### 🏆 my skills
