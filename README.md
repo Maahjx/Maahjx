@@ -10,6 +10,8 @@
   
   ### 👩‍💻 About me
   <p>
+Olá, meu nome é Maria Eduarda, tenho 17 anos e atualmente estou trabalhando como desenvolvedora front-end na empresa Nuvcare. Tenho experiência com Html, Css, JavaScript, Vue.js, React e git, Além de também ter experiência na ferramenta de prototipagem Figma. Atualmente desenvolvo trabalho voluntário em um projeto OpenSource chamado DevChallenge.
+
 Hi, my name is Maria Eduarda, I'm 17 years old and I'm currently working as a front-end developer at Nuvcare. I have experience with Html, CSS, JavaScript, Vue.js, React and git, as well as experience in the Figma prototyping tool. I currently do volunteer work on an OpenSource project called DevChallenge.
 </p>
 
